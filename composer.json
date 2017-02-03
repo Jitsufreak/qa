@@ -1,0 +1,8 @@
+{
+    "name": "Jitsufreak/qa",
+    "version": "master",
+    "source": {
+        "url": "git@github.com:Jitsufreak/qa.git",
+        "type": "git"
+    }
+}
